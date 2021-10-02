@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artsiom
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning new IT technologies
+- 🌱 I’m currently learning how GitHub works
 - 💞️ I’m looking to collaborate with anybody who can help me with education in IT sphere.
 
 
