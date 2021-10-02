@@ -1,1 +1,2 @@
 Another file to GitHub
+I add additional line to file2.txt.
